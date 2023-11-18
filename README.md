@@ -1,0 +1,2 @@
+# ratemyclass
+Registration helper tool
