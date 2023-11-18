@@ -1,0 +1,3 @@
+# ratemyclass
+
+Providing "Hello World" & Co code that supports the documentation
