@@ -1,3 +1,3 @@
-# ratemyclass
+# dep/
 
 Contains dependencies

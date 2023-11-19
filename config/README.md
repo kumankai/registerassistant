@@ -1,4 +1,4 @@
-# ratemyclass
+# config/
 
 Local configuration related to setup on local machine
 
